@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple weather application that provides current weather information for any city worldwide",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "weather",
+    "api",
+    "javascript",
+    "html",
+    "css",
+    "openweathermap"
+  ],
+  "author": "Muskan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/13muskanjain/weather-app.git"
+  },
+  "homepage": "https://github.com/13muskanjain/weather-app",
+  "dependencies": {},
+  "devDependencies": {}
+}
